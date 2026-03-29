@@ -39,15 +39,19 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats & Contributions:</h3>
+
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-usmang&show_icons=true&locale=en" alt="GitHub Stats" />
+  <!-- Total contributions, commits, PRs, etc. -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Code-with-UsmanG&show_icons=true&hide_title=false&count_private=true&hide=issues" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-usmang" alt="GitHub Streak" />
+  <!-- Streak stats -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-UsmanG&" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-usmang&layout=compact" alt="Top Languages" />
+  <!-- Top languages -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-UsmanG&layout=compact&hide_title=false&langs_count=10" alt="Top Languages" />
 </p>
