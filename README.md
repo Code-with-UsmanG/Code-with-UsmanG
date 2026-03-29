@@ -38,3 +38,16 @@
   <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-usmang&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-usmang" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-usmang&layout=compact" alt="Top Languages" />
+</p>
