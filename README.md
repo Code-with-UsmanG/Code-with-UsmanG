@@ -8,11 +8,11 @@ Building intelligent mobile applications at the intersection of Flutter, Firebas
 
 BS Computer Science · Class of 2027 · Pakistan
 
+[![Profile Views](https://komarev.com/ghpvc/?username=code-with-usmang&label=Profile+Views&color=2F81F7&style=for-the-badge)](https://github.com/Code-with-UsmanG)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanghanics/)
 [![X](https://img.shields.io/badge/@USMAANGF-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/USMAANGF)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanghanii7729@gmail.com)
 [![Instagram](https://img.shields.io/badge/code__with__usmang-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code_with_usmang/)
-[![Profile Views](https://komarev.com/ghpvc/?username=code-with-usmang&label=Profile+Views&color=2F81F7&style=for-the-badge)](https://github.com/Code-with-UsmanG)
 
 </div>
 
