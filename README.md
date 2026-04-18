@@ -178,6 +178,6 @@ A production-grade Flutter application with **17 service classes**, **12 data mo
 If you're working on something interesting, let's talk.
 
 [![Email](https://img.shields.io/badge/usmanghanii7729@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:usmanghanii7729@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/usmangofficial-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmangofficial/)
+[![LinkedIn](https://img.shields.io/badge/usmangofficial-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanghanics/)
 
 </div>
