@@ -2,7 +2,7 @@
 
 # Usman Ghani
 
-**BSCS’ 2027 | Mobile Application Engineer | UI/UX Designer | 6 Published Apps| Flutter • Kotlin | Winner – CodeX 3.0 (National Inter-University Champion) | 3rd - Visio Spark (Inter-University) | C++ (DSA & OOP)**
+**Mobile Application Engineer | UI/UX Designer | 6 Published Apps| Flutter • Kotlin | Winner – CodeX 3.0 (National Inter-University Champion) | 3rd - Visio Spark (Inter-University) | C++ (DSA & OOP)**
 
 Building intelligent mobile applications at the intersection of Flutter, Firebase, and Generative AI.
 
