@@ -2,7 +2,7 @@
 
 # Usman Ghani
 
-**Software Engineer · Mobile & AI**
+**Mobile Application Engineer · Android & iOS . Web Developer**
 
 Building intelligent mobile applications at the intersection of Flutter, Firebase, and Generative AI.
 
