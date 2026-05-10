@@ -2,170 +2,140 @@
 
 # Usman Ghani
 
-**Mobile Application Engineer | UI/UX Designer | 6 Published Apps| Flutter • Kotlin | Winner – CodeX 3.0 (National Inter-University Champion) | 3rd - Visio Spark (Inter-University) | C++ (DSA & OOP)**
+### Mobile Application Engineer • Flutter & Kotlin Developer • AI-Integrated Systems
 
-Building intelligent mobile applications at the intersection of Flutter, Firebase, and Generative AI.
+Building scalable mobile applications powered by Flutter, Firebase, and Generative AI.
 
-BS Computer Science · Class of 2027 · Pakistan
+🏆 Winner — CodeX 3.0 National Inter-University Competition  
+🥉 3rd Place — Visio Spark Inter-University Competition  
+📱 6 Published Applications  
+🎓 BS Computer Science — Class of 2027
 
-[![Profile Views](https://komarev.com/ghpvc/?username=code-with-usmang&label=Profile+Views&color=2F81F7&style=for-the-badge)](https://github.com/Code-with-UsmanG)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanghanics/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-with-UsmanG)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanghanii7729@gmail.com)
 [![X](https://img.shields.io/badge/@USMAANGF-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/USMAANGF)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanghanii7729@gmail.com)
-[![Instagram](https://img.shields.io/badge/code__with__usmang-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code_with_usmang/)
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-I'm a Computer Science student and software engineer who specializes in building **production-grade mobile applications** with a focus on AI integration and real-time backend systems. I've shipped apps to the **Google Play Store**, worked with clients to build business solutions, and built an advanced LMS platform with adaptive exam intelligence and multi-layer online proctoring from the ground up.
+I'm a Computer Science student and mobile application engineer focused on building production-ready applications with modern architectures, scalable backend systems, and AI-powered features.
 
-I care deeply about **shipping real products** — not just prototypes. Every project I work on is architected for production: proper state management, security rules, cloud functions, and scalable data models.
+My work primarily revolves around:
 
-```
-Currently:  Building Educator — an AI-powered LMS with IRT-based adaptive exams & real-time proctoring
-Learning:   LLMs, Agentic AI, ML model training & fine-tuning
-Looking for: Collaborations on AI-powered mobile apps and real-world problem-solving projects
+- Flutter & Android development
+- Firebase & cloud-based architectures
+- Generative AI integrations
+- Real-time systems and analytics
+- Clean UI/UX-focused application design
+
+I’ve published multiple applications, developed client projects, and built full-scale systems ranging from AI-powered LMS platforms to business management solutions.
+
+```yaml
+Currently Building:
+  Educator — AI-powered LMS with adaptive exams and intelligent proctoring
+
+Currently Learning:
+  LLMs, Agentic AI, ML model training & fine-tuning
+
+Interested In:
+  AI-integrated mobile apps
+  Real-world problem solving
+  Scalable backend systems
 ```
 
 ---
 
-## What I Build
+# Featured Project
 
-### 🧠 Educator — AI-Powered LMS Platform
-> *My flagship project — a full-stack exam & course management system*
+## 🧠 Educator — AI-Powered LMS Platform
 
-A production-grade Flutter application with **17 service classes**, **12 data models**, and **40+ screens** featuring:
+A production-scale Flutter application designed for digital learning, assessments, and intelligent examination systems.
 
-- **IRT-Based Adaptive Exam Engine** — Personalized paper assembly using Item Response Theory with 4-factor utility scoring (information value, target alignment, exposure penalty, discrimination bonus)
-- **Multi-Layer Online Proctoring** — Camera surveillance, ambient audio monitoring (calibrated baseline + sustained spike detection), native Android lockdown (FLAG_SECURE, screen pinning, overlay prevention), and a graduated violation enforcement system
-- **Gemini AI Integration** — Auto-generate MCQs from PDFs/DOCX/TXT, AI-powered document summarization, and batch question auto-tagging with topic/CLO/difficulty metadata
-- **Real-Time Learning Analytics** — Per-topic mastery tracking with sliding window trend detection, weak/strong topic classification, and interactive performance charts
-- **Cloud Architecture** — Firebase Auth + Firestore + FCM + Cloud Functions (push notifications) + Supabase Storage
+### Core Features
 
-[![Repo](https://img.shields.io/badge/Repository-educator-2F81F7?style=flat-square&logo=github)](https://github.com/Code-with-UsmanG/educator)
+- Adaptive examination engine using Item Response Theory (IRT)
+- AI-generated MCQs from PDFs, DOCX, and text files
+- Real-time analytics and student performance tracking
+- Multi-layer online proctoring and exam monitoring
+- Firebase-powered cloud infrastructure
+- Push notifications and real-time updates
+
+### Tech Stack
+
+`Flutter` • `Firebase` • `Cloud Functions` • `Supabase` • `Gemini AI`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Code-with-UsmanG/educator)
 
 ---
 
-### 📱 Published Android Apps
+# Published Applications
 
-| App | Description | Stack |
-|-----|-------------|-------|
-| **Clippy** | Clipboard manager app — published on Google Play | Android / Kotlin |
-| **Trimix** | Audio & video editor application | Android / Kotlin |
-| **Scannix** | Document scanner application | Android / Kotlin |
+| Application | Description | Stack |
+|---|---|---|
+| **Clippy** | Clipboard management application | Kotlin |
+| **Trimix** | Audio and video editing app | Kotlin |
+| **Scannix** | Document scanning application | Kotlin |
 | **TubeDown** | Media downloader application | Android |
-| **Reunify** | Photo reunion tool — merge childhood & current photos | Web / HTML |
+| **Reunify** | AI-powered photo reunion concept | Web |
 
-> Published through [Bluex Software Solutions](https://github.com/Code-with-UsmanG/Bluex_software_solutions) — my Google Play Console developer account.
+Published through **Bluex Software Solutions**.
 
 ---
 
-### 🏗️ Client & Business Projects
+# Client & Business Projects
 
 | Project | Description |
-|---------|-------------|
+|---|---|
+| **Makki AutoCare** | Auto service and management platform |
 | **BizCare** | Business management solution |
-| **Biz Parta** | Business support platform with dedicated support & privacy policy sites |
-| **Makki AutoCare** | Auto care service platform |
-| **Portfolio Site** | Personal portfolio website |
+| **Biz Parta** | Business support platform |
+| **Portfolio Website** | Personal developer portfolio |
 
 ---
 
-### 🎓 Academic Projects (C++)
+# Academic Projects (C++)
 
-| Project | Description | ⭐ |
-|---------|-------------|-----|
-| [**Chess Game**](https://github.com/Code-with-UsmanG/Chess-Game) | Full CLI-based chess engine with legal move validation (1st semester) | 1 |
-| [**Ant Farm Simulation**](https://github.com/Code-with-UsmanG/Ant-Farm-Simulation-System) | Colony behavior simulation with battles & resource management (OOP) | 1 |
-| [**Treasure Hunting Game**](https://github.com/Code-with-UsmanG/DSA-Project-Treasure-Hunting-Game) | Graph-based console game built for DSA course | 1 |
-
----
-
-## Tech Stack
-
-<table>
-<tr>
-<td align="center" width="140">
-
-**Mobile**
-
-</td>
-<td align="center" width="140">
-
-**Languages**
-
-</td>
-<td align="center" width="140">
-
-**Backend**
-
-</td>
-<td align="center" width="140">
-
-**AI / ML**
-
-</td>
-<td align="center" width="140">
-
-**Databases**
-
-</td>
-<td align="center" width="140">
-
-**Tools**
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="28" /><br/>Flutter<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="28" /><br/>Android
-
-</td>
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="28" /><br/>Dart<br/><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="28" /><br/>Kotlin<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" /><br/>Python<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28" /><br/>C++
-
-</td>
-<td align="center">
-
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28" /><br/>Firebase<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="28" /><br/>Supabase<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" /><br/>Node.js
-
-</td>
-<td align="center">
-
-<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690b6.svg" width="28" /><br/>Gemini AI<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="28" /><br/>ML/AI
-
-</td>
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28" /><br/>PostgreSQL<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" /><br/>MySQL
-
-</td>
-<td align="center">
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28" /><br/>Git<br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" /><br/>JavaScript
-
-</td>
-</tr>
-</table>
+| Project | Focus Area |
+|---|---|
+| **Chess Engine** | Object-Oriented Programming |
+| **Ant Farm Simulation** | Simulation Systems & OOP |
+| **Treasure Hunting Game** | Data Structures & Algorithms |
 
 ---
 
-## GitHub Analytics
+# Tech Stack
+
+### Mobile Development
+`Flutter` • `Android` • `Kotlin`
+
+### Languages
+`Dart` • `Kotlin` • `Python` • `C++` • `JavaScript`
+
+### Backend & Cloud
+`Firebase` • `Supabase` • `Node.js`
+
+### AI & Data
+`Gemini AI` • `Machine Learning`
+
+### Databases
+`PostgreSQL` • `MySQL` • `Firestore`
+
+### Tools
+`Git` • `GitHub` • `Figma`
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-with-UsmanG&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=github_dark&bg_color=0d1117&border_color=21262d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-UsmanG&layout=compact&hide_title=true&langs_count=8&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-with-UsmanG&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=github_dark" />
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-UsmanG&theme=github-dark-blue&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-UsmanG&layout=compact&theme=github_dark" />
 
 </div>
 
@@ -173,11 +143,10 @@ A production-grade Flutter application with **17 service classes**, **12 data mo
 
 <div align="center">
 
-**Open to collaborations on AI-integrated mobile apps, LLM-powered tools, and scalable backend systems.**
+### Open to collaborations and opportunities in:
 
-If you're working on something interesting, let's talk.
+AI-integrated mobile applications • Flutter development • Backend systems • Generative AI products
 
-[![Email](https://img.shields.io/badge/usmanghanii7729@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:usmanghanii7729@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/usmangofficial-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanghanics/)
+📩 **Contact:** usmanghanii7729@gmail.com
 
 </div>
