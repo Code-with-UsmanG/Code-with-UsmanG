@@ -1,10 +1,10 @@
 <div align="center">
 
-<sub>Mobile Application Engineer · AI Integration · Pakistan</sub>
+<sub>Mobile Application Engineer · Web Development · AI Integration · AI Automation</sub>
 
 # Usman Ghani
 
-<sub>Flutter · Kotlin · Firebase · Generative AI · BS Computer Science '27</sub>
+<sub>BS Computer Science '27</sub>
 
 ![6 Published Apps](https://img.shields.io/badge/6_Published_Apps-2F81F7?style=flat-square)
 ![CodeX 3.0 National Champion](https://img.shields.io/badge/CodeX_3.0-National_Champion-238636?style=flat-square)
