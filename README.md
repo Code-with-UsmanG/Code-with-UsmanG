@@ -1,17 +1,5 @@
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Code-with-UsmanG&theme=tokyonight&column=6&margin-w=10&margin-h=10)
-
-## GitHub Activity
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Code-with-UsmanG&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Code-with-UsmanG&show_icons=true&theme=github_dark)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Code-with-UsmanG&theme=github-dark-blue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-UsmanG&layout=compact&theme=github_dark)
-
 <sub>Mobile Application Engineer · AI Integration · AI Automation · Web Development</sub>
 
 # Usman Ghani
@@ -200,8 +188,12 @@ An end-to-end platform connecting customers with auto care professionals:
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
+![Trophies](https://github-profile-trophy.vercel.app/?username=Code-with-UsmanG&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true)
 
+---
+
+## GitHub Analytics
 <div align="center">
 
 <br/><br/>
