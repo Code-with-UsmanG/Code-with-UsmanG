@@ -2,16 +2,14 @@
 
 <sub>Mobile Application Engineer · AI Integration · AI Automation · Web Development</sub>
 
-<!-- Profile Views (separate row for clarity) -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=code-with-usmang&label=Profile+Views&color=2F81F7&style=for-the-badge)
-
-</div>
-
 # Usman Ghani
 
 <sub>BS Computer Science '27 · Building production-grade AI-powered mobile systems</sub>
+
+<br/>
+
+<!-- Profile Views (separate clean row) -->
+![Profile Views](https://komarev.com/ghpvc/?username=code-with-usmang&label=Profile+Views&color=2F81F7&style=for-the-badge)
 
 <br/>
 
@@ -19,10 +17,10 @@
 ![6 Published Apps](https://img.shields.io/badge/6_Published_Apps-2F81F7?style=flat-square)
 ![GitHub Active Developer](https://img.shields.io/badge/GitHub-Active_Developer-181717?style=flat-square&logo=github)
 ![CodeX 3.0 Champion](https://img.shields.io/badge/CodeX_3.0-National_Champion-238636?style=flat-square)
-![AureX Speed Programming Runner-Up](https://img.shields.io/badge/AureX_Speed_Programming-Runner_Up-ff9800?style=flat-square)
+![AureX Runner-Up](https://img.shields.io/badge/AureX_Speed_Programming-Runner_Up-ff9800?style=flat-square)
 ![Visio Spark 3rd Place](https://img.shields.io/badge/Visio_Spark-3rd_Place-9e6a03?style=flat-square)
 ![Competitive Programmer](https://img.shields.io/badge/Competitive_Programming-Problem_Solving-blueviolet?style=flat-square)
-![AI/ML Builder](https://img.shields.io/badge/AI%2FML-Builder_and_Integrator-0ea5e9?style=flat-square)
+![AI/ML Engineer](https://img.shields.io/badge/AI%2FML-Engineer-0ea5e9?style=flat-square)
 ![Open Source Contributor](https://img.shields.io/badge/Open_Source-Contributor-success?style=flat-square)
 
 <br/>
