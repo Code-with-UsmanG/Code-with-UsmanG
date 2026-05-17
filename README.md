@@ -195,7 +195,7 @@ An end-to-end platform connecting customers with auto care professionals:
 <br/><br/>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-UsmanG&theme=github-dark-green&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-UsmanG&theme=github-dark-blue&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
 />
 
 </div>
