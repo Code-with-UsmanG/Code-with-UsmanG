@@ -1,20 +1,32 @@
 <div align="center">
 
-<sub>Mobile Application Engineer · Web Development · AI Integration · AI Automation</sub>
+<sub>Mobile Application Engineer · AI Integration · AI Automation · Web Development</sub>
 
 # Usman Ghani
 
-<sub>BS Computer Science '27</sub>
+<sub>BS Computer Science '27 · Building production-grade AI-powered mobile systems</sub>
+
+<br/>
 
 ![6 Published Apps](https://img.shields.io/badge/6_Published_Apps-2F81F7?style=flat-square)
 ![CodeX 3.0 National Champion](https://img.shields.io/badge/CodeX_3.0-National_Champion-238636?style=flat-square)
+![AureX Speed Programming Runner-Up](https://img.shields.io/badge/AureX_Speed_Programming-Runner_Up-ff9800?style=flat-square)
 ![Visio Spark 3rd Place](https://img.shields.io/badge/Visio_Spark-3rd_Place-9e6a03?style=flat-square)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanghanics/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanghanii7729@gmail.com)
 [![X](https://img.shields.io/badge/@USMAANGF-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/USMAANGF)
 [![Instagram](https://img.shields.io/badge/code__with__usmang-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code_with_usmang/)
-[![Profile Views](https://komarev.com/ghpvc/?username=code-with-usmang&label=Profile+Views&color=2F81F7&style=for-the-badge)](https://github.com/Code-with-UsmanG)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=code-with-usmang&label=Profile+Views&color=2F81F7&style=for-the-badge)
 
 </div>
 
