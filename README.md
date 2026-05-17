@@ -149,13 +149,21 @@ An end-to-end platform connecting customers with auto care professionals:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-with-UsmanG&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=github_dark&bg_color=0d1117&border_colo[...]
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Code-with-UsmanG&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=github_dark&bg_color=0d1117&border_color=21262d"
+/>
+
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-UsmanG&layout=compact&hide_title=true&langs_count=8&theme=github_dark&bg_color=0d1117&border_color=21262[...]
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-UsmanG&layout=compact&hide_title=true&langs_count=8&theme=github_dark&bg_color=0d1117&border_color=21262d"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-UsmanG&theme=github-dark-blue&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" a[...]
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-UsmanG&theme=github-dark-blue&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
+/>
 
 </div>
 
