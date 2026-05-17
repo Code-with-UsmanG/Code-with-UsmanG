@@ -22,8 +22,6 @@
 
 ## About
 
-## About
-
 Mobile engineer focused on shipping production-grade apps — not prototypes. Published 6 apps on the Google Play Store, including an AI-powered LMS with adaptive exam intelligence and real-time proctoring, along with multiple client and business solutions across different domains.
 
 I architect for production from day one: proper state management, security rules, cloud functions, scalable data models, and maintainable system design.
