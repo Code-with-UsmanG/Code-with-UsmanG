@@ -22,7 +22,7 @@
 
 ## About
 
-Mobile engineer focused on **shipping production-grade apps** — not prototypes. I've published 6 apps to the Google Play Store, built an AI-powered LMS with adaptive exam intelligence and real-time proctoring from scratch, and delivered client projects across multiple industries.
+Mobile engineer focused on **shipping production-grade apps** — not prototypes. I've published 6 apps to the Google Play Store, built an AI-powered LMS with adaptive exam intelligence and real-time [...]
 
 I architect for production from day one: proper state management, security rules, cloud functions, and scalable data models.
 
@@ -34,21 +34,35 @@ Open to:             Collaborations on AI-integrated mobile apps and real-world 
 
 ---
 
-## Flagship Project
+## Featured Projects
 
-### Educator — AI-Powered LMS Platform
+### SnapCut — Professional Audio & Video Editor
 
-> Full-stack Flutter application · 17 service classes · 12 data models · 40+ screens
+> Production-grade media editing application · Live on Google Play Store as "SnapCut"
 
-A production-grade exam and course management system built end-to-end:
+A feature-rich multimedia editor for seamless audio and video editing:
 
-- **IRT-Based Adaptive Exam Engine** — Personalized paper assembly using Item Response Theory with 4-factor utility scoring: information value, target alignment, exposure penalty, and discrimination bonus
-- **Multi-Layer Online Proctoring** — Camera surveillance, ambient audio monitoring (calibrated baseline + sustained spike detection), native Android lockdown (FLAG_SECURE, screen pinning, overlay prevention), and a graduated violation enforcement system
-- **Gemini AI Integration** — Auto-generate MCQs from PDFs/DOCX/TXT, AI-powered document summarization, batch question auto-tagging with topic/CLO/difficulty metadata
-- **Real-Time Learning Analytics** — Per-topic mastery tracking with sliding window trend detection, weak/strong topic classification, interactive performance charts
-- **Cloud Architecture** — Firebase Auth + Firestore + FCM + Cloud Functions + Supabase Storage
+- **Multi-Track Audio Editing** — Layer, mix, and process multiple audio tracks with real-time preview
+- **Video Processing** — Trim, cut, merge, and apply effects to video content
+- **High-Performance Rendering** — Optimized encoding and export for various formats
+- **Native Android Integration** — Direct access to device media library with efficient caching
 
-[![Repository](https://img.shields.io/badge/View_Repository-educator-2F81F7?style=flat-square&logo=github)](https://github.com/Code-with-UsmanG/educator)
+**Stack:** Kotlin · Android · Media Framework
+
+---
+
+### Makki AutoCare — Smart Auto Service Platform
+
+> Full-featured business solution for automotive care services
+
+An end-to-end platform connecting customers with auto care professionals:
+
+- **Service Booking System** — Real-time appointment scheduling and service catalog management
+- **Customer Management** — Profile tracking, service history, and personalized recommendations
+- **Business Dashboard** — Analytics, revenue tracking, and service performance metrics
+- **Payment Integration** — Secure transactions and invoice generation
+
+**Stack:** Flutter · Firebase · Payment Gateway
 
 ---
 
@@ -57,7 +71,7 @@ A production-grade exam and course management system built end-to-end:
 | App | Description | Stack |
 |-----|-------------|-------|
 | **Clippy** | Clipboard manager — live on Google Play | Kotlin / Android |
-| **Trimix** | Audio & video editor | Kotlin / Android |
+| **SnapCut** | Audio & video editor | Kotlin / Android |
 | **Scannix** | Document scanner | Kotlin / Android |
 | **TubeDown** | Media downloader | Android |
 | **Reunify** | Photo reunion tool — merge childhood & current photos | Web / HTML |
@@ -135,13 +149,13 @@ A production-grade exam and course management system built end-to-end:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-with-UsmanG&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=github_dark&bg_color=0d1117&border_color=21262d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-with-UsmanG&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=github_dark&bg_color=0d1117&border_colo[...]
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-UsmanG&layout=compact&hide_title=true&langs_count=8&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-UsmanG&layout=compact&hide_title=true&langs_count=8&theme=github_dark&bg_color=0d1117&border_color=21262[...]
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-UsmanG&theme=github-dark-blue&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-UsmanG&theme=github-dark-blue&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" a[...]
 
 </div>
 
