@@ -3,6 +3,7 @@
 <sub>Mobile Application Engineer · AI Integration · AI Automation · Web Development</sub>
 
 # Usman Ghani
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <sub>BS Computer Science '27 · Building production-grade AI-powered mobile systems</sub>
 
