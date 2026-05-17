@@ -192,12 +192,6 @@ An end-to-end platform connecting customers with auto care professionals:
 
 <div align="center">
 
-&nbsp;&nbsp;
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-UsmanG&layout=compact&hide_title=true&langs_count=8&theme=github_dark&bg_color=0d1117&border_color=21262d"
-/>
-
 <br/><br/>
 
 <img
