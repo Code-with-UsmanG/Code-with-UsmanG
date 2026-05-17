@@ -95,9 +95,9 @@ An end-to-end platform connecting customers with auto care professionals:
 
 | Project | Description |
 |---------|-------------|
-| [**Chess Game**](https://github.com/Code-with-UsmanG/Chess-Game) | Full CLI-based chess engine with legal move validation *(1st semester)* |
+| [**Chess Game**](https://github.com/Code-with-UsmanG/Chess-Game) | Full CLI-based chess engine with legal move validation *(Programming Fundaments)* |
 | [**Ant Farm Simulation**](https://github.com/Code-with-UsmanG/Ant-Farm-Simulation-System) | Colony behavior simulation with battles & resource management *(OOP)* |
-| [**Treasure Hunting Game**](https://github.com/Code-with-UsmanG/DSA-Project-Treasure-Hunting-Game) | Graph-based console game *(DSA course)* |
+| [**Treasure Hunting Game**](https://github.com/Code-with-UsmanG/DSA-Project-Treasure-Hunting-Game) | Graph-based console game *(DSA)* |
 
 ---
 
