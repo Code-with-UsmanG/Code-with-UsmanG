@@ -122,41 +122,72 @@ An end-to-end platform connecting customers with auto care professionals:
 
 <table>
 <tr>
-<td align="center" width="130"><b>Mobile</b></td>
-<td align="center" width="130"><b>Languages</b></td>
-<td align="center" width="130"><b>Backend</b></td>
-<td align="center" width="130"><b>AI / ML</b></td>
-<td align="center" width="130"><b>Databases</b></td>
-<td align="center" width="130"><b>Tools</b></td>
+<td align="center"><b>Mobile</b></td>
+<td align="center"><b>Backend & APIs</b></td>
+<td align="center"><b>AI / ML & LLMs</b></td>
+<td align="center"><b>Databases</b></td>
+<td align="center"><b>DevOps & Cloud</b></td>
+<td align="center"><b>Tools</b></td>
 </tr>
+
 <tr>
+
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="28"/><br/>Flutter<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="28"/><br/>Android
+Flutter<br/>
+Android (Kotlin)<br/>
+Riverpod · Bloc<br/>
+Clean Architecture<br/>
+State Management
 </td>
+
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="28"/><br/>Dart<br/><br/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="28"/><br/>Kotlin<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/><br/>Python<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28"/><br/>C++
+REST APIs<br/>
+Node.js · Express.js<br/>
+JWT Authentication<br/>
+OAuth 2.0<br/>
+WebSockets<br/>
+Firebase Cloud Functions
 </td>
+
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28"/><br/>Firebase<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="28"/><br/>Supabase<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28"/><br/>Node.js
+Gemini API<br/>
+OpenAI / LLM APIs<br/>
+OpenRouter<br/>
+RAG Systems<br/>
+Prompt Engineering<br/>
+TensorFlow<br/>
+PyTorch<br/>
+Hugging Face
 </td>
+
 <td align="center">
-<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690b6.svg" width="28"/><br/>Gemini AI<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="28"/><br/>TensorFlow
+Firestore<br/>
+MySQL<br/>
+PostgreSQL<br/>
+MongoDB<br/>
+Supabase<br/>
+Oracle DB
 </td>
+
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28"/><br/>PostgreSQL<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28"/><br/>MySQL
+Firebase Auth<br/>
+FCM Push Notifications<br/>
+Google Cloud Platform (GCP)<br/>
+Play Store Console<br/>
+App Store Connect<br/>
+CI/CD Basics
 </td>
+
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28"/><br/>Git<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/><br/>JavaScript
+Git · GitHub<br/>
+Postman<br/>
+VS Code<br/>
+Android Studio<br/>
+Visual Studio<br/>
+Xcode<br/>
+JavaScript
 </td>
+
 </tr>
 </table>
 
