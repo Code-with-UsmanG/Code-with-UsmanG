@@ -126,8 +126,13 @@ An end-to-end platform connecting customers with auto care professionals:
 ---
 
 ### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Kotlin-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter (Android + iOS)](https://img.shields.io/badge/Flutter-Cross_Platform_Android_%26_iOS-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android (Kotlin)](https://img.shields.io/badge/Android_Kotlin-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS (Swift/Xcode)](https://img.shields.io/badge/iOS_Xcode-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+### State Management
 ![Riverpod](https://img.shields.io/badge/Riverpod-State_Management-7B42BC?style=for-the-badge)
 ![Bloc](https://img.shields.io/badge/Bloc-Architecture-0097A7?style=for-the-badge)
 
