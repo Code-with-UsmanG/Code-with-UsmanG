@@ -1,5 +1,7 @@
 <div align="center">
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Code-with-UsmanG&theme=tokyonight&column=6&margin-w=10&margin-h=10)
+
 <sub>Mobile Application Engineer · AI Integration · AI Automation · Web Development</sub>
 
 # Usman Ghani
