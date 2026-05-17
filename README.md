@@ -214,7 +214,6 @@ Open to collaborations, and production-level engineering opportunities in AI, mo
 <br/>
 
 If you're working on impactful or technically challenging systems, collaboration is welcome.
-
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanghanics/)
