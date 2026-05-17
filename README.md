@@ -47,7 +47,7 @@ A feature-rich multimedia editor for seamless audio and video editing:
 - **High-Performance Rendering** — Optimized encoding and export for various formats
 - **Native Android Integration** — Direct access to device media library with efficient caching
 
-**Stack:** Kotlin · Android · Media Framework
+**Stack:** Kotlin · Android
 
 ---
 
@@ -62,7 +62,7 @@ An end-to-end platform connecting customers with auto care professionals:
 - **Business Dashboard** — Analytics, revenue tracking, and service performance metrics
 - **Payment Integration** — Secure transactions and invoice generation
 
-**Stack:** Flutter · Firebase · Payment Gateway
+**Stack:** Flutter · Firebase · Android · iOS
 
 ---
 
