@@ -120,76 +120,65 @@ An end-to-end platform connecting customers with auto care professionals:
 
 ## Tech Stack
 
-<table>
-<tr>
-<td align="center"><b>Mobile</b></td>
-<td align="center"><b>Backend & APIs</b></td>
-<td align="center"><b>AI / ML & LLMs</b></td>
-<td align="center"><b>Databases</b></td>
-<td align="center"><b>DevOps & Cloud</b></td>
-<td align="center"><b>Tools</b></td>
-</tr>
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Kotlin-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-State_Management-7B42BC?style=for-the-badge)
+![Bloc](https://img.shields.io/badge/Bloc-Architecture-0097A7?style=for-the-badge)
 
-<tr>
+---
 
-<td align="center">
-Flutter<br/>
-Android (Kotlin)<br/>
-Riverpod · Bloc<br/>
-Clean Architecture<br/>
-State Management
-</td>
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-APIs-FF6F00?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth-2.0-4285F4?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-8E44AD?style=for-the-badge)
+![Firebase Functions](https://img.shields.io/badge/Cloud_Functions-Firebase-FFCA28?style=for-the-badge)
 
-<td align="center">
-REST APIs<br/>
-Node.js · Express.js<br/>
-JWT Authentication<br/>
-OAuth 2.0<br/>
-WebSockets<br/>
-Firebase Cloud Functions
-</td>
+---
 
-<td align="center">
-Gemini API<br/>
-OpenAI / LLM APIs<br/>
-OpenRouter<br/>
-RAG Systems<br/>
-Prompt Engineering<br/>
-TensorFlow<br/>
-PyTorch<br/>
-Hugging Face
-</td>
+### AI / ML & LLM Systems
+![Gemini](https://img.shields.io/badge/Gemini-AI-8E75B2?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/LLM-APIs-412991?style=for-the-badge)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM_Routing-FF4B4B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Systems-0EA5E9?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-10B981?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FCC624?style=for-the-badge)
 
-<td align="center">
-Firestore<br/>
-MySQL<br/>
-PostgreSQL<br/>
-MongoDB<br/>
-Supabase<br/>
-Oracle DB
-</td>
+---
 
-<td align="center">
-Firebase Auth<br/>
-FCM Push Notifications<br/>
-Google Cloud Platform (GCP)<br/>
-Play Store Console<br/>
-App Store Connect<br/>
-CI/CD Basics
-</td>
+### Databases
+![Firestore](https://img.shields.io/badge/Firestore-Firebase-FFCA28?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge)
 
-<td align="center">
-Git · GitHub<br/>
-Postman<br/>
-VS Code<br/>
-Android Studio<br/>
-Visual Studio<br/>
-Xcode<br/>
-JavaScript
-</td>
+---
 
-</tr>
-</table>
+### DevOps & Deployment
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=for-the-badge)
+![FCM](https://img.shields.io/badge/FCM-Push_Notifications-FFCA28?style=for-the-badge)
+![Play Store](https://img.shields.io/badge/Google_Play-Console-34A853?style=for-the-badge)
+![App Store](https://img.shields.io/badge/App_Store-Connect-0D96F6?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-6C63FF?style=for-the-badge)
+
+---
+
+### Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
