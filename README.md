@@ -14,7 +14,7 @@
 <br/>
 
 <!-- ROW 1: CORE ROLES & ENGAGEMENT -->
-<sub>💼 Role & Community</sub>
+<sub>Role & Community</sub>
 <p>
   <img src="https://img.shields.io/badge/6_Published_Apps-2F81F7?style=flat-square" alt="6 Published Apps" />
   <img src="https://img.shields.io/badge/GitHub-Active_Developer-181717?style=flat-square&logo=github" alt="GitHub Active Developer" />
@@ -22,18 +22,21 @@
 </p>
 
 <!-- ROW 2: COMPETITIVE PROGRAMMING & HACKATHONS -->
-<sub>🏆 Competitions & Hackathons</sub>
+<sub>Competitions & Hackathons</sub>
 <p>
-  <img src="https://img.shields.io/badge/CodeX_3.0-National_Champion-238636?style=flat-square" alt="CodeX 3.0 Champion" />
+  <img src="https://img.shields.io/badge/CodeX_3.0_Competitive_Programming-National_Champion-238636?style=flat-square" alt="CodeX 3.0 Champion" />
   <img src="https://img.shields.io/badge/AureX_Speed_Programming-Runner_Up-ff9800?style=flat-square" alt="AureX Runner-Up" />
   <img src="https://img.shields.io/badge/Visio_Spark-3rd_Place-9e6a03?style=flat-square" alt="Visio Spark 3rd Place" />
 </p>
 
 <!-- ROW 3: DOMAIN FOCUS -->
-<sub>🎯 Core Specializations</sub>
+<sub>Core Specializations</sub>
 <p>
-  <img src="https://img.shields.io/badge/Competitive_Programming-Problem_Solving-blueviolet?style=flat-square" alt="Competitive Programmer" />
+   <img src="https://img.shields.io/badge/Competitive_Programming-Problem_Solving-blueviolet?style=flat-square" alt="Competitive Programmer" />
   <img src="https://img.shields.io/badge/AI%2FML-Engineer-0ea5e9?style=flat-square" alt="AI/ML Engineer" />
+  <img src="https://shields.io" alt="Mobile Engineer" />
+  <img src="https://shields.io" alt="Full Stack Dev" />
+  <img src="https://shields.io" alt="Automation Engineer" />
 </p>
 
 <br/>
