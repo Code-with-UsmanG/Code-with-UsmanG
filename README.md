@@ -13,15 +13,28 @@
 
 <br/>
 
-<!-- Achievement Badges -->
-![6 Published Apps](https://img.shields.io/badge/6_Published_Apps-2F81F7?style=flat-square)
-![GitHub Active Developer](https://img.shields.io/badge/GitHub-Active_Developer-181717?style=flat-square&logo=github)
-![CodeX 3.0 Champion](https://img.shields.io/badge/CodeX_3.0-National_Champion-238636?style=flat-square)
-![AureX Runner-Up](https://img.shields.io/badge/AureX_Speed_Programming-Runner_Up-ff9800?style=flat-square)
-![Visio Spark 3rd Place](https://img.shields.io/badge/Visio_Spark-3rd_Place-9e6a03?style=flat-square)
-![Competitive Programmer](https://img.shields.io/badge/Competitive_Programming-Problem_Solving-blueviolet?style=flat-square)
-![AI/ML Engineer](https://img.shields.io/badge/AI%2FML-Engineer-0ea5e9?style=flat-square)
-![Open Source Contributor](https://img.shields.io/badge/Open_Source-Contributor-success?style=flat-square)
+<!-- ROW 1: CORE ROLES & ENGAGEMENT -->
+<sub>💼 Role & Community</sub>
+<p>
+  <img src="https://img.shields.io/badge/6_Published_Apps-2F81F7?style=flat-square" alt="6 Published Apps" />
+  <img src="https://img.shields.io/badge/GitHub-Active_Developer-181717?style=flat-square&logo=github" alt="GitHub Active Developer" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=flat-square" alt="Open Source Contributor" />
+</p>
+
+<!-- ROW 2: COMPETITIVE PROGRAMMING & HACKATHONS -->
+<sub>🏆 Competitions & Hackathons</sub>
+<p>
+  <img src="https://img.shields.io/badge/CodeX_3.0-National_Champion-238636?style=flat-square" alt="CodeX 3.0 Champion" />
+  <img src="https://img.shields.io/badge/AureX_Speed_Programming-Runner_Up-ff9800?style=flat-square" alt="AureX Runner-Up" />
+  <img src="https://img.shields.io/badge/Visio_Spark-3rd_Place-9e6a03?style=flat-square" alt="Visio Spark 3rd Place" />
+</p>
+
+<!-- ROW 3: DOMAIN FOCUS -->
+<sub>🎯 Core Specializations</sub>
+<p>
+  <img src="https://img.shields.io/badge/Competitive_Programming-Problem_Solving-blueviolet?style=flat-square" alt="Competitive Programmer" />
+  <img src="https://img.shields.io/badge/AI%2FML-Engineer-0ea5e9?style=flat-square" alt="AI/ML Engineer" />
+</p>
 
 <br/>
 
