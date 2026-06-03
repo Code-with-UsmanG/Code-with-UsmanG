@@ -26,7 +26,7 @@
 <p>
   <img src="https://img.shields.io/badge/CodeX_3.0_Competitive_Programming-National_Champion-238636?style=flat-square" alt="CodeX 3.0 Champion" />
   <img src="https://img.shields.io/badge/AureX_Speed_Programming-Runner_Up-ff9800?style=flat-square" alt="AureX Runner-Up" />
-  <img src="https://img.shields.io/badge/Visio_Spark-3rd_Place-9e6a03?style=flat-square" alt="Visio Spark 3rd Place" />
+  <img src="https://img.shields.io/badge/Visio_Spark_On_Spot_Programming-3rd_Place-9e6a03?style=flat-square" alt="Visio Spark 3rd Place" />
 </p>
 
 <!-- ROW 3: DOMAIN FOCUS -->
