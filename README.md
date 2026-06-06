@@ -8,59 +8,65 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=code-with-usmang\&label=Profile+Views\&color=2F81F7\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=code-with-usmang&label=Profile+Views&color=2F81F7&style=for-the-badge)
 
 <br/>
 
 <!-- ROLE & COMMUNITY -->
-
 <sub>Role & Community</sub>
-
 <p>
-  <img src="https://img.shields.io/badge/6_Published_Apps-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub-Active_Developer-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/6_Published_Apps-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-Active_Developer-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-1F6FEB?style=flat-square" />
 </p>
 
 <!-- COMPETITIONS -->
-
 <sub>Competitions & Hackathons</sub>
-
 <p>
-  <img src="https://img.shields.io/badge/CodeX_3.0-National_Champion-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/AureX-Runner_Up-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Visio_Spark-3rd_Place-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/CodeX_3.0-National_Champion-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/AureX-Runner_Up-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Visio_Spark-3rd_Place-F59E0B?style=flat-square" />
 </p>
 
 <!-- SPECIALIZATIONS -->
-
 <sub>Core Specializations</sub>
-
 <p>
-  <img src="https://img.shields.io/badge/AI%2FML-Engineer-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mobile_Application_Engineer-Flutter_%26_Kotlin-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full_Stack_Dev-React_%2B_Vite_%2F_Angular-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation_Engineer-n8n_Workflows-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%2FML-Engineer-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mobile_Application_Engineer-Flutter_%26_Kotlin-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full_Stack_Dev-React_%2B_Vite_%2F_Angular-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation_Engineer-n8n_Workflows-7C3AED?style=flat-square" />
 </p>
 
 <!-- PRIMARY STACK -->
-
 <sub>Primary Stack</sub>
-
 <p>
-  <img src="https://img.shields.io/badge/Flutter-Mobile_Development-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kotlin-Native_Android-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Firebase-Backend_&_Cloud-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-AI_Integration-2F81F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/n8n-Automation-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Flutter-Mobile_Development-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kotlin-Native_Android-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-Backend_&_Cloud-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-AI_Integration-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/n8n-Automation-10B981?style=flat-square" />
 </p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/usmanghanics/)
-[![Email](https://img.shields.io/badge/Email-2F81F7?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:usmanghanii7729@gmail.com)
-[![X](https://img.shields.io/badge/@USMAANGF-2F81F7?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/USMAANGF)
-[![Instagram](https://img.shields.io/badge/code__with__usmang-2F81F7?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/code_with_usmang/)
+<!-- SOCIAL LINKS -->
+<p>
+  <a href="https://www.linkedin.com/in/usmanghanics/">
+    <img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:usmanghanii7729@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/USMAANGF">
+    <img src="https://img.shields.io/badge/X-2F81F7?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/code_with_usmang/">
+    <img src="https://img.shields.io/badge/Instagram-2F81F7?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
