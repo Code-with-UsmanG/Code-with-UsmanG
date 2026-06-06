@@ -249,7 +249,7 @@ An end-to-end platform connecting customers with auto care professionals:
 
 ## GitHub Activity
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Code-with-UsmanG&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=code-with-usmang&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true)
 
 ---
 
