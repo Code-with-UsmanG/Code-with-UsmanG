@@ -10,8 +10,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=code-with-usmang&label=Profile+Views&color=2F81F7&style=for-the-badge)
 
-<br/>
-
 <!-- ROLE & COMMUNITY -->
 <sub>Role & Community</sub>
 <p>
