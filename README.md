@@ -48,6 +48,7 @@
 <br/>
 
 <!-- SOCIAL LINKS -->
+<sub>Social Links</sub>
 <p>
   <a href="https://www.linkedin.com/in/usmanghanics/">
     <img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white" />
