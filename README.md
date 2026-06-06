@@ -51,19 +51,19 @@
 <sub>Social Links</sub>
 <p>
   <a href="https://www.linkedin.com/in/usmanghanics/">
-    <img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-usmanghanics-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:usmanghanii7729@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-usmanghanii7729@gmail.com-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://x.com/USMAANGF">
-    <img src="https://img.shields.io/badge/X-2F81F7?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@USMAANGF-2F81F7?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/code_with_usmang/">
-    <img src="https://img.shields.io/badge/Instagram-2F81F7?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-code_with_usmang-2F81F7?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
