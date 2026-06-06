@@ -247,14 +247,6 @@ An end-to-end platform connecting customers with auto care professionals:
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-with-usmang&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-with-usmang&theme=github-dark-blue)
-
----
-
 ## GitHub Analytics
 
 <div align="center">
