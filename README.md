@@ -32,11 +32,11 @@
 <!-- ROW 3: DOMAIN FOCUS -->
 <sub>Core Specializations</sub>
 <p>
-   <img src="https://img.shields.io/badge/Competitive_Programming-Problem_Solving-blueviolet?style=flat-square" alt="Competitive Programmer" />
+  <img src="https://img.shields.io/badge/Competitive_Programming-Problem_Solving-blueviolet?style=flat-square" alt="Competitive Programmer" />
   <img src="https://img.shields.io/badge/AI%2FML-Engineer-0ea5e9?style=flat-square" alt="AI/ML Engineer" />
-  <img src="img.shields.io/badge/Mobile_Engineer-Flutter_%26_Kotlin-02569B" alt="Mobile Engineer" />
-  <img src="img.shields.io/badge/Full_Stack_Dev-React_%2B_Vite_%2F_Angular-61DAFB" alt="Full Stack Dev" />
-  <img src="img.shields.io/badge/Automation_Engineer-n8n_Workflows-EA4B71" alt="Automation Engineer" />
+  <img src="https://img.shields.io/badge/Mobile_Engineer-Flutter_%26_Kotlin-02569B?style=flat-square" alt="Mobile Engineer" />
+  <img src="https://img.shields.io/badge/Full_Stack_Dev-React_%2B_Vite_%2F_Angular-61DAFB?style=flat-square" alt="Full Stack Dev" />
+  <img src="https://img.shields.io/badge/Automation_Engineer-n8n_Workflows-EA4B71?style=flat-square" alt="Automation Engineer" />
 </p>
 
 <br/>
