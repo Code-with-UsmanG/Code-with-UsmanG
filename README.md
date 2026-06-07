@@ -39,7 +39,7 @@
 <sub>Bahria University, Islamabad</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-0a2a1a?style=for-the-badge&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%89%20Runner--Up-6b1a1a?style=for-the-badge&logoColor=white" /><br/><br/>
 <strong>V-Spark</strong> — Inter-University Competition<br/>
 <sub>COMSATS University Islamabad, Vehari Campus</sub>
 </td>
