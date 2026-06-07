@@ -70,8 +70,8 @@ Open to             →  Collaborations · Freelance · Production-grade enginee
 | App | Description | Stack | Play Store |
 |-----|-------------|-------|:----------:|
 | **SnapCut** | Professional audio & video editor — multi-track editing, FFmpeg rendering, media effects | Flutter · FFmpeg | [▶ Play](https://play.google.com/store/apps/details?id=com.bluex.soundy) |
-| **Clippy** | Smart clipboard assistant — persistent clipboard history with quick-access management | Kotlin | [▶ Play](https://play.google.com/store/apps/details?id=com.bluex.clippy) |
-| **Scannix** | Document scanner with OCR, edge detection, and PDF export | Kotlin | [▶ Play](https://play.google.com/store/apps/details?id=com.bluex.scanix) |
+| **Clippy** | Smart clipboard assistant — persistent clipboard history with quick-access management | Flutter . Firebase . Konami Code | [▶ Play](https://play.google.com/store/apps/details?id=com.bluex.clippy) |
+| **Scannix** | Document scanner with OCR, edge detection, and PDF export | Flutter . Google ML Kit | [▶ Play](https://play.google.com/store/apps/details?id=com.bluex.scanix) |
 
 <br/>
 
