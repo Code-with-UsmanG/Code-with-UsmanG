@@ -68,9 +68,11 @@ Open To             →  Engineering roles  ·  Freelance  ·  AI-integrated pro
 
 ## Published Apps
 
-> **6+ apps** live on **Google Play** and the **Apple App Store**, built and deployed under [Bluex Software Solutions](https://play.google.com/store/apps/developer?id=Bluex+Software+Solutions).
+> **6+ apps** live on **Google Play** and the **Apple App Store** across two developer accounts.
 
 ### Commercial Apps — Android & iOS
+
+> Published under **[BizCare Software Solutions](https://play.google.com/store/apps/dev?id=8637287917294002096)** · [App Store Developer Page](https://apps.apple.com/in/developer/bizcare-software-solutions/id1838928700)
 
 | App | What It Does | Play Store | App Store |
 |-----|-------------|:----------:|:---------:|
@@ -82,6 +84,8 @@ Open To             →  Engineering roles  ·  Freelance  ·  AI-integrated pro
 
 ### Personal Apps — Google Play
 
+> Published under **[Bluex Software Solutions](https://play.google.com/store/apps/dev?id=6998588855803716099)**
+
 | App | What It Does | Stack | Play Store |
 |-----|-------------|-------|:----------:|
 | **SnapCut** | Professional audio & video editor — multi-track editing, FFmpeg-powered rendering, media effects | Flutter · FFmpeg | [▶ Play](https://play.google.com/store/apps/details?id=com.bluex.soundy) |
@@ -92,11 +96,13 @@ Open To             →  Engineering roles  ·  Freelance  ·  AI-integrated pro
 
 ---
 
-## Selected Projects
+## Engineering Work
 
 ### Leafiyo — AI Ebook Generation SaaS
 
 > Full-stack SaaS platform for generating and selling AI-authored ebooks, illustrated books, and mini-novels. Built for the global francophone market with French, English, Spanish, and German language support.
+>
+> **Role:** Full-Stack Developer — Next.js frontend, API routes, AI pipeline integration, Supabase backend, payment gateway setup, and admin panel
 
 **Core product flow:**
 - Keyword input → Claude Sonnet 4 generates 5 curated title/description concepts
@@ -149,6 +155,8 @@ Open To             →  Engineering roles  ·  Freelance  ·  AI-integrated pro
 ### Makki AutoCare — Smart Auto Service Platform
 
 > End-to-end automotive service booking platform, live on Android and iOS. Built entirely in Flutter with Firebase backend.
+>
+> **Role:** Solo Developer — full product ownership from architecture and UI design to Firebase backend, Play Store, and App Store deployment
 
 - Real-time appointment scheduling with full service catalog management
 - Customer profile tracking, service history, and personalised recommendations
@@ -162,6 +170,8 @@ Open To             →  Engineering roles  ·  Freelance  ·  AI-integrated pro
 ### SnapCut — Professional Audio & Video Editor
 
 > High-performance media editor for Android with multi-track audio and video processing. [▶ Play Store](https://play.google.com/store/apps/details?id=com.bluex.soundy)
+>
+> **Role:** Solo Developer — FFmpeg pipeline integration, UI design, media processing architecture, and Play Store publication
 
 - Multi-track audio layering, mixing, and real-time preview
 - Video trim, cut, merge, and effects pipeline powered by FFmpeg
