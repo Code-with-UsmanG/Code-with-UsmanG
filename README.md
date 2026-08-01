@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Code-with-UsmanG&label=Profile+Views&color=1a3a6b&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=usmanghanics&label=Profile+Views&color=1a3a6b&style=flat-square)
 
 <br/>
 
@@ -272,7 +272,7 @@ Open To             →  Engineering roles  ·  Freelance  ·  AI-integrated pro
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-with-UsmanG&theme=github-dark-blue&background=0d1117&border=1a3a6b&stroke=1a3a6b&ring=1a3a6b&fire=cc3333&currStreakLabel=58A6FF&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanghanics&theme=github-dark-blue&background=0d1117&border=1a3a6b&stroke=1a3a6b&ring=1a3a6b&fire=cc3333&currStreakLabel=58A6FF&hide_border=false" />
 
 </div>
 
